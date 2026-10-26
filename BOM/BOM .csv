@@ -1,0 +1,11 @@
+﻿Component,Quantity,Unit Price (USD),Supplier,Purpose
+,,,,
+XIAO-ESP32-C3,1,$7.79,Alibaba,Main microcontroller
+Printing PCB,1,$4.00,JLCPCB,Printing the main board
+USB-C data cable,1,$0.50,Alibaba,To connect my board to laptop for music
+Sliding potentiometer,2,$0.93,Alibaba,To adjust music / beat
+SK6812MINI-E RGB light,2,$0.11,Alibaba,"Part of my board, to make it colouful"
+Rotatery encoder,1,$0.53,Alibaba,To adjust volume
+Shipping PCB & tax,,$6.50,,
+Tax + shipping @ Alibaba,,$16.10,,
+Total,,$36.46,,
