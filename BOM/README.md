@@ -1,7 +1,6 @@
-Here is my BOM
+Here, you will find my Bom
 
 
-Component	Quantity	Unit Price (USD)	Supplier	Purpose
 
 
 
