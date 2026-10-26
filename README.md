@@ -91,3 +91,6 @@ This project was based on the MIDI-Keypad guide by KaiPereira.
 - Original project guide: https://github.com/KaiPereira/MIDI-Keypad/blob/master/README.md
 
 The original guide was used as a reference for the design process. The PCB layout and troubleshooting work documented here reflect my own progress through the project.
+
+
+Check out my BOM and my project cost is coming along $37. I am willing to pay $7 from my pocket as long as I can get the funding of $30(or $33 with margin).
