@@ -1,2 +1,2 @@
 
-You will find my .sch and .pcb file here
+You will find my .sch, .pro and .pcb files here
